@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="31cec346-cfeb-478d-9951-36fabe2b7fa9" name="Changes" comment="" />
+    <list default="true" id="31cec346-cfeb-478d-9951-36fabe2b7fa9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +15,71 @@
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="5" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2190580228909964" />
+      <entry key="MS500" value="3.1430182055824685" />
+      <entry key="S2" value="6.87190817702748" />
+      <entry key="S5" value="10.9966609576253" />
+      <entry key="S10" value="16.595711992640283" />
+      <entry key="S30" value="26.188117322354817" />
+      <entry key="S60" value="30.553431232458124" />
+      <entry key="M2" value="33.65232810666719" />
+      <entry key="M5" value="36.349043430354385" />
+      <entry key="M10" value="37.548793080424055" />
+      <entry key="M15" value="38.000247729965025" />
+      <entry key="M30" value="38.48271561704719" />
+      <entry key="H1" value="38.73674829908925" />
+      <entry key="H2" value="38.86718773230927" />
+      <entry key="H4" value="38.93329288470151" />
+      <entry key="D1" value="38.988839967124036" />
+      <entry key="W1" value="38.998404671641254" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1637386162029746" />
+      <entry key="MS500" value="3.11431590282698" />
+      <entry key="S2" value="6.854999508102481" />
+      <entry key="S5" value="10.981903693232157" />
+      <entry key="S10" value="16.580097053764355" />
+      <entry key="S30" value="26.177211270525856" />
+      <entry key="S60" value="30.54658820520997" />
+      <entry key="M2" value="33.64828305485833" />
+      <entry key="M5" value="36.34706947589389" />
+      <entry key="M10" value="37.54769621027691" />
+      <entry key="M15" value="37.9994855161363" />
+      <entry key="M30" value="38.48231696241439" />
+      <entry key="H1" value="38.73654414914732" />
+      <entry key="H2" value="38.8670843925208" />
+      <entry key="H4" value="38.933240890893636" />
+      <entry key="D1" value="38.98883125583194" />
+      <entry key="W1" value="38.998403426043986" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -30,9 +97,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -46,6 +115,12 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\OneDrive\Desktop\Java Notes\Topics\Java 8 Features\Stream API" />
+      <recent name="C:\Users\abhil\OneDrive\Desktop\Java Notes\Topics\Java 8 Features\Functional Interface" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
