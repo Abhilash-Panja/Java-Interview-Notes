@@ -1,0 +1,57 @@
+# Java Streams — Interview Practice Question Bank
+
+No solutions here on purpose — attempt each one yourself first, then we solve them together one at a time.
+
+## Grouping & Partitioning
+
+1. Group a list of `Employee` objects by department.
+2. Find the count of employees in each department.
+3. Given a list of `Student` objects, group them by grade and count how many students got each grade.
+4. Partition a list of numbers into even and odd.
+5. Partition a list of employees into those earning above 50,000 and those below.
+
+## Finding max / min / aggregates
+
+6. Assume you have a list of employees in various departments. Find the highest-salary employee in each department.
+7. Find the highest/oldest age of employee using a lambda expression.
+8. Find maximum, minimum, sum, and average of a list using `reduce`.
+9. Given an `Employee` class (`id`, `name`, `grade`, `salary`), find the sum of salary of employees whose grade is `'A'`.
+10. Calculate the average salary for employees with grade `'A'`.
+
+## Sorting
+
+11. Sort a list of `Employee` by salary descending, then by name ascending.
+12. Sort a list of strings by their length, and if two strings have the same length, sort them alphabetically.
+
+## Transforming / extracting data
+
+13. Given a `User` class (`id`, `name`, `phone`, `email`) and a list `users`, extract just `id` and `name` into a new list `userDetails`.
+14. Convert `List<List<Integer>>` into a single flat `List<Integer>` (using `flatMap`).
+15. Given a list of sentences, extract all unique words across all sentences into a single list.
+
+## Duplicates & Frequency
+
+16. Find duplicate elements in a list.
+17. Find the frequency of each character in a string (`Map<Character, Long>`).
+18. Given a list of words, find the word that occurs most frequently.
+
+## Matching / searching
+
+19. Check if all numbers in a list are positive.
+20. Find the first word in a list that has more than 5 characters.
+21. Check whether any employee in the list has salary above 1,00,000.
+
+## String building
+
+22. Given a list of strings, join them into a single comma-separated string, but only for strings longer than 3 characters.
+
+## Second-highest / Nth element type
+
+23. Find the second-highest number in a list.
+24. Find the second-highest salary among employees, without using `sorted()` (bonus challenge — think `distinct` + `max`/comparator tricks).
+
+---
+
+## Your added questions (space to keep growing the list)
+
+<!-- Add new questions here as we go -->
